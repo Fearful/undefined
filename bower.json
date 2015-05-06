@@ -1,0 +1,19 @@
+{
+  "name": "undefined",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Fearful/undefined",
+  "authors": [
+    "Joan Andres Lascano <joan.lascano@gmail.com>"
+  ],
+  "description": "Everything starts from nothing",
+  "main": "app.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ]
+}
